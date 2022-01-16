@@ -7,6 +7,8 @@ This gathers all the necessary characteristics that construe a job posting. Thes
 For this dataset we will be using various different classification machine learning algorithms to see which will result in the highest accuracy of classifying if a job is fraudulent or not. Additionally, we will look into natural language processing techniques to see if we can identify similarities that occur with fraudulent job postings. Ultimately, our goal will be to classify whether or not a job posting is genuine or not with the least amount of false positives.
 
 https://www.kaggle.com/shivamb/real-or-fake-fake-jobposting-prediction
+
+
 Above is the downloadable link for the 50 MB csv file
 
 Libraries used:
